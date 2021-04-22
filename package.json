@@ -1,0 +1,36 @@
+{
+    "author": "",
+    "dependencies": {},
+    "keywords": [],
+    "name": "studyhelper",
+    "pebble": {
+        "displayName": "StudyHelper",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/study-helper.png",
+                    "menuIcon": true,
+                    "name": "icon",
+                    "type": "png"
+                },
+                {
+                      "type": "font",
+                      "name": "PIX_RIDDIM_11",
+                      "file": "fonts/Pix_Riddim_11.ttf"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "7ba68e10-e132-449a-b5bb-ac3c2980f035",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
